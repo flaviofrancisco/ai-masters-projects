@@ -82,6 +82,5 @@ runs/
 /.idea/.gitignore
 /.idea/modules.xml
 /.idea/inspectionProfiles/profiles_settings.xml
-/requirements.txt
 /requirements-mac.txt
 /.idea/vcs.xml
