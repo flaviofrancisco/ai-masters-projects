@@ -1,0 +1,3 @@
+[submodule "01-generative-ai-fundamentals"]
+	path = 01-generative-ai-fundamentals
+	url = git@github.com:flaviofrancisco/01-generative-ai-fundamentals.git
